@@ -37,7 +37,7 @@ public class Agenda
     }
 
 
-    public void Editar(int index, string newName, int newPhone, string newEmail)
+    public void Editar(int index, string newName, string newPhone, string newEmail)
     {
         
         if(index >= 0 && index < contatos.Count) 
@@ -102,7 +102,7 @@ class Menu
                     //telefone
                     Console.WriteLine("Escreva o telefone (Apenas números)");
 
-                    int telefone; 
+                    var telefone; 
                     while(!int.TryParse(Console.ReadLine(), out telefone))
                     {
                         Console.WriteLine("Inválido");    //para garantir que não o programa não quebre
