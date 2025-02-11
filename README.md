@@ -14,7 +14,7 @@ Este projeto é um sistema simples de agenda de contatos desenvolvido em C#. Ele
 ## 📝 Exemplo de Uso
 ```
 1. Escreva o nome: Joãozinho
-2. Escreva o telefone: 11999999999
+2. Escreva o telefone: 85999999999
 3. Escreva o e-mail: joaozinho@email.com
 ```
 
