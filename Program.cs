@@ -1,8 +1,9 @@
-﻿using System;
+using System;
+using System.ComponentModel.Design;
 
-  public class Contato
+public class Contato
   {
-    public Contato(string name, int phone, string email)
+    public Contato(string name, string phone, string email)
     {
         Name = name;
         Phone = phone;
@@ -10,7 +11,7 @@
     }
       
       public string Name { get; set; } 
-      public int Phone { get; set; }
+      public string Phone { get; set; }
       public string Email { get; set; } 
 }
 public class Agenda
@@ -102,11 +103,16 @@ class Menu
                     //telefone
                     Console.WriteLine("Escreva o telefone (Apenas números)");
 
-                    var telefone; 
-                    while(!int.TryParse(Console.ReadLine(), out telefone))
+                    string telefone; 
+                    while(true)
                     {
-                        Console.WriteLine("Inválido");    //para garantir que não o programa não quebre
+                        telefone = Console.ReadLine();
+                        if (telefone.Length >= 10 && telefone.Length <= 15 && telefone.All(char.IsDigit))
+                          break;
+                       else
+                            Console.WriteLine("Inválido.");
                     }
+                    
                     
                     //email
                     Console.WriteLine("Escreva o e-mail");
@@ -130,10 +136,14 @@ class Menu
                         var newName = Console.ReadLine();
 
                         Console.WriteLine("Digite o novo telefone");
-                        int newPhone;
-                        while (!int.TryParse(Console.ReadLine(), out newPhone))
+                        string newPhone;
+                        while (true)
                         {
-                            Console.WriteLine("Inválido. Digite um número válido");
+                            newPhone = Console.ReadLine();
+                            if (newPhone.Length >= 10 && newPhone.Length <= 15 && newPhone.All(char.IsDigit))
+                                break;
+                            else
+                                Console.WriteLine("Telefone inválido.");
                         }
 
                         Console.WriteLine("Digite um novo e-mail:");
