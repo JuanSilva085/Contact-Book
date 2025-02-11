@@ -70,7 +70,7 @@ public class Agenda
     {
         foreach (var contato in contatos) 
         {
-            Console.WriteLine($"Lista de contatos: \nNome: {contato.Name}, \nEmail: {contato.Email} \n Telefone: {contato.Phone}");
+            Console.WriteLine($"Lista de contatos: \nNome: {contato.Name}, \nEmail: {contato.Email} \nTelefone: {contato.Phone}");
         }
     }
  }
