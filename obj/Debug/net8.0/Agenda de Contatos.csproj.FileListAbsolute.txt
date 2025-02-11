@@ -1,0 +1,15 @@
+C:\Users\JuanU\source\repos\Agenda de Contatos\Agenda de Contatos\bin\Debug\net8.0\Agenda de Contatos.exe
+C:\Users\JuanU\source\repos\Agenda de Contatos\Agenda de Contatos\bin\Debug\net8.0\Agenda de Contatos.deps.json
+C:\Users\JuanU\source\repos\Agenda de Contatos\Agenda de Contatos\bin\Debug\net8.0\Agenda de Contatos.runtimeconfig.json
+C:\Users\JuanU\source\repos\Agenda de Contatos\Agenda de Contatos\bin\Debug\net8.0\Agenda de Contatos.dll
+C:\Users\JuanU\source\repos\Agenda de Contatos\Agenda de Contatos\bin\Debug\net8.0\Agenda de Contatos.pdb
+C:\Users\JuanU\source\repos\Agenda de Contatos\Agenda de Contatos\obj\Debug\net8.0\Agenda de Contatos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\JuanU\source\repos\Agenda de Contatos\Agenda de Contatos\obj\Debug\net8.0\Agenda de Contatos.AssemblyInfoInputs.cache
+C:\Users\JuanU\source\repos\Agenda de Contatos\Agenda de Contatos\obj\Debug\net8.0\Agenda de Contatos.AssemblyInfo.cs
+C:\Users\JuanU\source\repos\Agenda de Contatos\Agenda de Contatos\obj\Debug\net8.0\Agenda de Contatos.csproj.CoreCompileInputs.cache
+C:\Users\JuanU\source\repos\Agenda de Contatos\Agenda de Contatos\obj\Debug\net8.0\Agenda de Contatos.sourcelink.json
+C:\Users\JuanU\source\repos\Agenda de Contatos\Agenda de Contatos\obj\Debug\net8.0\Agenda de Contatos.dll
+C:\Users\JuanU\source\repos\Agenda de Contatos\Agenda de Contatos\obj\Debug\net8.0\refint\Agenda de Contatos.dll
+C:\Users\JuanU\source\repos\Agenda de Contatos\Agenda de Contatos\obj\Debug\net8.0\Agenda de Contatos.pdb
+C:\Users\JuanU\source\repos\Agenda de Contatos\Agenda de Contatos\obj\Debug\net8.0\Agenda de Contatos.genruntimeconfig.cache
+C:\Users\JuanU\source\repos\Agenda de Contatos\Agenda de Contatos\obj\Debug\net8.0\ref\Agenda de Contatos.dll
