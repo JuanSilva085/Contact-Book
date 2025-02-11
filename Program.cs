@@ -86,7 +86,7 @@ class Menu
         while (true)
         {
             Console.WriteLine("Olá, o que deseja fazer?" +
-               "\n1-Adicionar um contato " +
+               "\n1- Adicionar um contato " +
                "\n2- Editar um contato" +
                "\n3- Excluir um contato " +
                "\n4- Listar contato");
