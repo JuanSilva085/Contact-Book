@@ -14,15 +14,14 @@ Este projeto é um sistema simples de agenda de contatos desenvolvido em C#. Ele
 
 ## 🚀 Como Executar
 
-Clone o repositório
+1- Clone o repositório
 
-git clone https://github.com/seu-usuario/nome-do-repositorio.git
-cd nome-do-repositorio
+git clone [https://github.com/seu-usuario/nome-do-repositorio.git](https://github.com/JuanSilva085/Contact-Book)
+cd Contact-Book
 
-Abra o projeto em um ambiente C# (como Visual Studio ou VS Code).
+2- Abra o projeto em um ambiente C#.
 
-Compile e execute o programa
-
+3-Compile e execute o programa
 No terminal, execute:
 
 dotnet run
