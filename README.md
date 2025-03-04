@@ -12,6 +12,22 @@ Este projeto é um sistema simples de agenda de contatos desenvolvido em C#. Ele
 - 📋 **Listar** todos os contatos salvos.
 
 
+## 🚀 Como Executar
+
+Clone o repositório
+
+git clone https://github.com/seu-usuario/nome-do-repositorio.git
+cd nome-do-repositorio
+
+Abra o projeto em um ambiente C# (como Visual Studio ou VS Code).
+
+Compile e execute o programa
+
+No terminal, execute:
+
+dotnet run
+
+
 ## 📝 Exemplo de Uso
 ```
 1. Escreva o nome: Joãozinho
