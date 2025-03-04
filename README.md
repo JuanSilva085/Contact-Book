@@ -16,7 +16,7 @@ Este projeto é um sistema simples de agenda de contatos desenvolvido em C#. Ele
 
 1- Clone o repositório
 
-git clone [https://github.com/seu-usuario/nome-do-repositorio.git](https://github.com/JuanSilva085/Contact-Book)
+git clone [https://github.com/JuanSilva085/Contact-Book.git](https://github.com/JuanSilva085/Contact-Book)                                                                             
 cd Contact-Book
 
 2- Abra o projeto em um ambiente C#.
