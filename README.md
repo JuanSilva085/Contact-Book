@@ -11,8 +11,9 @@ Este projeto é um sistema simples de agenda de contatos desenvolvido em C#. Ele
 - ❌ **Excluir** um contato pelo nome.
 - 📋 **Listar** todos os contatos salvos.
 
+-----------------------------------------------------------------------------
 
-## 🚀 Como Executar
+🚀 Como Executar
 
 1- Clone o repositório
 
